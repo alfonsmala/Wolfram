@@ -1,7 +1,7 @@
 <?php
 
 /* -----------------------------------
-	Script: 	Wolfram Alpha
+	Script: 	Wolfram Alons
 	Author: 	David Ferguson
 	Usage:		w <query>
 	Desc:		Searches Wolfram Alpha for the passed search query
